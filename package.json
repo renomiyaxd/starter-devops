@@ -1,0 +1,10 @@
+{
+    "name": "simple-devops-demo",
+    "version": "1.0.0",
+    "description": "Simple web app for DevOps demo",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "node test.js"
+    }
+  }
